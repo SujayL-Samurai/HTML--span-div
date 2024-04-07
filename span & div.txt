@@ -1,0 +1,21 @@
+<span> - inline container to group elements for styling purposes
+<div> - block container to group elements for styling purposes
+<style> - CSS
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <body bgcolor="#D6EAF8">
+        <title>Sujay's First Website</title>
+        <h1><span style="background-color:antiquewhite;">This is a span title</span></h1>
+        <h1><div style="background-color: aquamarine;">This is a div title</div></h1>
+
+        <p>
+            <span style="background-color:pink;">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</span>
+            Minima voluptates non, omnis enim repudiandae vel qui beatae explicabo labore officia culpa blanditiis distinctio vitae aspernatur.
+            <div style="background-color:plum;">Iure aliquam unde nesciunt fuga.</div>
+        </p>
+
+    </body>
+    </head>
+</html>
